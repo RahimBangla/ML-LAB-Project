@@ -1,0 +1,10 @@
+setuptools
+wheel
+Flask
+Flask-CORS
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+requests
